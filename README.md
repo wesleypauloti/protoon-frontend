@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+![image](https://github.com/wesleypauloti/protoon-frontend/assets/112399136/2da4b8d6-1d15-47de-b20f-97c2551ae9b5)
+
+
 In the project directory, you can run:
 
 ### `npm start`

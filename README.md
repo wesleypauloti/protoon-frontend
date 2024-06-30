@@ -1,7 +1,8 @@
 # Meu Projeto
 
 ## Descrição
-Este projeto é uma aplicação web desenvolvida utilizando HTML, CSS, JavaScript, Java (Spring Boot) e React. A aplicação permite [descrição do que a aplicação faz].
+Este projeto é uma aplicação web desenvolvida utilizando HTML, CSS, JavaScript, Java (Spring Boot) e React. A aplicação permite que o usuário faça uma reclamação
+a prefeitura sobre algo que está ocorrendo no município para que a prefeitura resolva, também na aplicação há a versão administrador, onde os funcionários separados por roles, vai gerenciar o sistema e as reclamações.
 
 ## Tecnologias Necessárias
 Para rodar este projeto, você precisará ter instalado:

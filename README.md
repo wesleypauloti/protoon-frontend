@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Meu Projeto
 
 ## Descrição

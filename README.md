@@ -14,7 +14,7 @@ Para rodar este projeto, você precisará ter instalado:
 
 ## Configuração do Projeto
 
-### Clonar o Repositório
+### Clonar o Repositório os Repositórios do Frontend e Backend
 
 Backend - Spring Boot
 
